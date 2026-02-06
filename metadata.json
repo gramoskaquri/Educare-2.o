@@ -1,0 +1,7 @@
+{
+  "name": "Educare 2.o",
+  "description": "A comprehensive school planning system with AI-powered task breakdowns, study schedules, and subject management to help students stay organized and excel.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
